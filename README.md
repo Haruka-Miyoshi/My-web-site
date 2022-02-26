@@ -1,4 +1,2 @@
-# web-site-test
-
-Github Pagesの使い方を試すurl</br>
-URL: https://haruka-miyoshi.github.io/web-site-test/
+<h1> My web pages </h1>
+My web pages URL: https://haruka-miyoshi.github.io/web-site-test/
